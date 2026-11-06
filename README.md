@@ -5,7 +5,7 @@ Análisis end-to-end de una cartera de ~2,26 millones de préstamos P2P: ¿qué 
  
 **Stack:** PostgreSQL · SQL (subconsultas, `FILTER`, agregaciones) · Python (pandas, limpieza y subset) · Power BI (modelo + DAX)
  
-![Dashboard de riesgo](powerbi/dashboard.png)
+![Dashboard de riesgo](powerbi/LENDING_CLUB_DASHBOARD.png)
  
 ---
  
