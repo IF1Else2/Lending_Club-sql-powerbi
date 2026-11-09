@@ -76,6 +76,8 @@ La pérdida bruta total de los préstamos impagados (prestado − pagado) ascien
 - **`small_business` merece criterios de aprobación más estrictos** o un interés acorde a su riesgo real (30% de impago).
 - **Revisar la oferta de 60 meses:** el interés extra solo compensa si cubre el doble de impago. Conviene modelar si el margen neto sigue siendo positivo en los grados bajos a 60 meses.
 - La baja tasa de recuperación sobre los $1.900M perdidos sugiere que **la palanca está en la prevención (aprobación), no en la recuperación** posterior.
+
+
 *Nota: el dataset refleja el periodo P2P histórico de Lending Club (2007-2018); la empresa ha pivotado después a banca digital. El análisis es válido como estudio de riesgo de cartera sobre esos datos reales.*
  
 ---
