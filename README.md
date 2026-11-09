@@ -96,5 +96,6 @@ La pérdida bruta total de los préstamos impagados (prestado − pagado) ascien
  
 1. Descargar el dataset [Lending Club Loan Data](https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv) de Kaggle.
 2. Ejecutar el script de Python para generar el subset limpio (`loan_clean.csv`).
-3. Crear la base de datos en PostgreSQL y cargar los datos con los scripts de `sql/`.
-4. Abrir el `.pbix` de `powerbi/` y actualizar la conexión a la base de datos local.
+3. Crear la base de datos en PostgreSQL y cargar los datos con sql/crear_tabla.sql y sql/cargar_datos.sql.
+4. (Opcional) Ejecutar las consultas de análisis de sql/ para reproducir los hallazgos (tasa de impago, riesgo por grado, por propósito, etc.)
+5. El dashboard se construyó en Power BI conectando a la base de datos local. El archivo .pbix no se incluye por su tamaño; ver la captura en powerbi/dashboard.png.
