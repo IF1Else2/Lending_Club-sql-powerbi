@@ -1,4 +1,3 @@
-# Lending_Club-sql-powerbi
 # Análisis de riesgo de crédito — cartera de préstamos (Lending Club)
  
 Análisis end-to-end de una cartera de ~2,26 millones de préstamos P2P: ¿qué préstamos acaban en impago, dónde se concentra el riesgo y cuánto dinero expone al prestamista? Desde la carga en base de datos hasta un dashboard interactivo.
