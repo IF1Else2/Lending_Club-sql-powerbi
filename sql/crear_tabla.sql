@@ -14,7 +14,7 @@ CREATE TABLE fact_loan (
     sub_grade             VARCHAR(4),
     issue_d               DATE,
     purpose               VARCHAR(50),
-    loan_status           VARCHAR(40),
+    loan_status           VARCHAR(60),
  
     -- solicitante
     emp_length            VARCHAR(20),
