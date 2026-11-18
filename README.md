@@ -87,7 +87,7 @@ La pérdida bruta total de los préstamos impagados (prestado − pagado) ascien
 ```
 ├── sql/            Scripts de creación de tablas y consultas de análisis
 ├── python/         Script de limpieza y generación del subset
-├── powerbi/        Archivo .pbix del dashboard + captura
+├── powerbi/        Captura
 ├── docs/           Diccionario de datos y documentación
 └── README.md
 ```
